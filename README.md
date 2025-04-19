@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Adham Ali</h1>
 <h3 align="center">A passionate Game developer from Egypt</h3>
 
-- 🔭 I’m currently working on [VR Educational Experiment and Simulations for my company](https://www.linkedin.com/company/scivr/posts/?feedView=all)
+- 🔭 I’m currently working on [VR Educational Experiments and Simulations for my company](https://www.linkedin.com/company/scivr/posts/?feedView=all)
 
 - 🌱 I’m currently learning **C++ and multiplayer networking**
 
